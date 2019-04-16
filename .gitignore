@@ -1,0 +1,4 @@
+## .gitignore file for xml2json-scaffold
+
+## ignore folder fetched through gclient
+xml2json
